@@ -1,0 +1,14 @@
+{
+  "name": "webpack-copy-plugin",
+  "version": "0.0.1",
+  "author": "Luke Madera",
+  "description": "Copy files (or directories), e.g. from node_modules to a local folder.",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/presencelearning/webpack-copy-plugin.git"
+  },
+  "devDependencies": {
+    "fs-extra": "1.0.0"
+  }
+}
