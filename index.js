@@ -39,7 +39,7 @@ WebpackCopyPlugin.prototype.apply = function(compiler) {
                     mkdir(dirs.to);
                     fs.copy(dirs.from, dirs.to, { clobber: true }, function(err) {
                         if (err) {
-                            console.error('err: ', err);
+                            // console.error('err: ', err);
                         } else {
                             console.log(`Copied ${dirs.from} to ${dirs.to}`);
                         }

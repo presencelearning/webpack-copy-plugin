@@ -1,6 +1,6 @@
 {
   "name": "webpack-copy-plugin",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "author": "Luke Madera",
   "description": "Copy files (or directories), e.g. from node_modules to a local folder.",
   "license": "MIT",
